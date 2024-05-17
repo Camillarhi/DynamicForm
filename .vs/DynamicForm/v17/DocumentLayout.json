@@ -1,7 +1,96 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\services\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\services\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\iservices\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\iservices\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\services\\applicationformconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\services\\applicationformconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\services\\questionconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\services\\questionconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\services\\programconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\services\\programconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\services\\candidateapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\services\\candidateapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\controllers\\questionconfigurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\controllers\\questionconfigurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\iservices\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\iservices\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\dtos\\applicationformconfigurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\dtos\\applicationformconfigurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\models\\candidateapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\models\\candidateapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\models\\programconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\models\\programconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\controllers\\candidateapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\controllers\\candidateapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\controllers\\programconfigurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\controllers\\programconfigurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\configurations\\mapperinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\configurations\\mapperinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\models\\questionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\models\\questionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\dynamicform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\dynamicform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|c:\\users\\rita.desktop-pfeh5l4\\revent\\dynamicform\\dynamicform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB42C1DD-2C52-4FAC-A576-B80F47AA3633}|DynamicForm\\DynamicForm.csproj|solutionrelative:dynamicform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +98,277 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Program.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Program.cs",
+              "RelativeToolTip": "DynamicForm\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:21:45.212Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "DynamicForm\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\appsettings.Production.json",
+              "RelativeToolTip": "DynamicForm\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T17:02:37.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Services\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\GenericRepository.cs",
+              "RelativeToolTip": "DynamicForm\\Services\\GenericRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:40:21.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationFormConfigurationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\ApplicationFormConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Services\\ApplicationFormConfigurationRepository.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\ApplicationFormConfigurationRepository.cs",
+              "RelativeToolTip": "DynamicForm\\Services\\ApplicationFormConfigurationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:07:50.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\CandidateApplicationRepository.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Services\\CandidateApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\CandidateApplicationRepository.cs",
+              "RelativeToolTip": "DynamicForm\\Services\\CandidateApplicationRepository.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAkwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:44:10.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgramConfigurationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\ProgramConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Services\\ProgramConfigurationRepository.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\ProgramConfigurationRepository.cs",
+              "RelativeToolTip": "DynamicForm\\Services\\ProgramConfigurationRepository.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAkwFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:30:19.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestionConfigurationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\QuestionConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Services\\QuestionConfigurationRepository.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\QuestionConfigurationRepository.cs",
+              "RelativeToolTip": "DynamicForm\\Services\\QuestionConfigurationRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:20:01.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Services\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "DynamicForm\\Services\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:37:44.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\IServices\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\IServices\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\IServices\\IGenericRepository.cs",
+              "RelativeToolTip": "DynamicForm\\IServices\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:17:57.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuestionConfigurationController.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Controllers\\QuestionConfigurationController.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Controllers\\QuestionConfigurationController.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Controllers\\QuestionConfigurationController.cs",
+              "RelativeToolTip": "DynamicForm\\Controllers\\QuestionConfigurationController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAswG8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:21:35.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DynamicForm\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:14:03.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\IServices\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\IServices\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\IServices\\IUnitOfWork.cs",
+              "RelativeToolTip": "DynamicForm\\IServices\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:34:07.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationFormConfigurationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Dtos\\ApplicationFormConfigurationDTO.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Dtos\\ApplicationFormConfigurationDTO.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Dtos\\ApplicationFormConfigurationDTO.cs",
+              "RelativeToolTip": "DynamicForm\\Dtos\\ApplicationFormConfigurationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:07:46.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProgramConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Models\\ProgramConfiguration.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Models\\ProgramConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Models\\ProgramConfiguration.cs",
+              "RelativeToolTip": "DynamicForm\\Models\\ProgramConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:43:06.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CandidateApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Models\\CandidateApplication.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Models\\CandidateApplication.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Models\\CandidateApplication.cs",
+              "RelativeToolTip": "DynamicForm\\Models\\CandidateApplication.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:45:42.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProgramConfigurationController.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Controllers\\ProgramConfigurationController.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Controllers\\ProgramConfigurationController.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Controllers\\ProgramConfigurationController.cs",
+              "RelativeToolTip": "DynamicForm\\Controllers\\ProgramConfigurationController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:21:44.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CandidateApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Controllers\\CandidateApplicationController.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Controllers\\CandidateApplicationController.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Controllers\\CandidateApplicationController.cs",
+              "RelativeToolTip": "DynamicForm\\Controllers\\CandidateApplicationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:37:15.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MapperInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Configurations\\MapperInitializer.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Configurations\\MapperInitializer.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Configurations\\MapperInitializer.cs",
+              "RelativeToolTip": "DynamicForm\\Configurations\\MapperInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:36:06.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuestionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Dtos\\QuestionDTO.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Dtos\\QuestionDTO.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Dtos\\QuestionDTO.cs",
+              "RelativeToolTip": "DynamicForm\\Dtos\\QuestionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:31:12.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Models\\Question.cs",
+              "RelativeToolTip": "DynamicForm\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:29:06.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DynamicForm.csproj",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\DynamicForm.csproj",
+              "RelativeDocumentMoniker": "DynamicForm\\DynamicForm.csproj",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\DynamicForm.csproj",
+              "RelativeToolTip": "DynamicForm\\DynamicForm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T11:15:45.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuestionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Models\\QuestionConfiguration.cs",
+              "RelativeDocumentMoniker": "DynamicForm\\Models\\QuestionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Rita.DESKTOP-PFEH5L4\\Revent\\DynamicForm\\DynamicForm\\Models\\QuestionConfiguration.cs",
+              "RelativeToolTip": "DynamicForm\\Models\\QuestionConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:27.443Z"
             }
           ]
         }
