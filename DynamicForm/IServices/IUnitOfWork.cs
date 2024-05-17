@@ -1,8 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using DynamicForm.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace DynamicForm.IServices
 {
-    public interface IUnitOfWork
+    public interface IUnitOfWork : IDisposable
     {
         DbContext Context { get; }
         Task SaveChangesAsync();

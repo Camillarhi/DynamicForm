@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using DynamicForm.Dtos;
 using DynamicForm.DTOs;
 using DynamicForm.Models;
 
@@ -16,6 +17,9 @@ namespace DynamicForm.Configurations
             CreateMap<QuestionConfiguration, CreateQuestionConfigurationDTO>().ReverseMap();
             CreateMap<FieldConfiguration, FieldConfigurationDTO>().ReverseMap();
             CreateMap<Choice, ChoiceDTO>().ReverseMap();
+            CreateMap<CandidateApplication, CandidateApplicationDTO>().ReverseMap();
+            CreateMap<CandidateApplication, CreateCandidateApplicationDTO>().ReverseMap();
+            CreateMap<Question, QuestionDTO>().ReverseMap();
         }
     }
 }
