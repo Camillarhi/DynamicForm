@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -114,6 +114,10 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.Production.json",
@@ -127,10 +131,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GenericRepository.cs",
@@ -140,8 +140,7 @@
               "RelativeToolTip": "DynamicForm\\Services\\GenericRepository.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAkwEMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T16:40:21.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T16:40:21.531Z"
             },
             {
               "$type": "Document",
